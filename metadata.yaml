@@ -1,0 +1,29 @@
+_repo: The-eternal-masculine-b-Stories-of-men-and-boys_71145
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Andrews, Mary Raymond Shipman
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '1687'
+    url: http://www.gutenberg.org/2009/agents/1687
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Raymond_Shipman_Andrews
+description: ''
+gutenberg_issued: '2023-07-08'
+identifiers:
+  gutenberg: '71145'
+language: en
+pgterms:marc905: 20171106135109andrews
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Bob Taylor, Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bCharles Scribner''s Sons, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The eternal masculine : $b Stories of men and boys'
+url: http://www.gutenberg.org/ebooks/71145
